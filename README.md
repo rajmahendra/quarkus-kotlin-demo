@@ -1,6 +1,6 @@
-# quarcus-kotlin-demo
+# quarkus-kotlin-demo
 
-My demo project to try Quarcus with Kotlin as a language
+My demo project to try Quarkus with Kotlin as a language
 
 ## Running the application in dev mode
 
