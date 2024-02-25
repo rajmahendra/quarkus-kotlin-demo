@@ -1,0 +1,16 @@
+# Quarkus-Kotlin-Demo
+
+This repository is for my tryst with Quarkus with Kotlin coding.
+
+## Running the application in dev mode
+
+You can run your application in dev mode that enables live coding using:
+```shell script
+./gradlew quarkusDev
+```
+
+## Extensions Used
+
+- https://quarkus.io/guides/rest-json[RESTEasy Classic with JSON-B]
+- https://quarkus.io/guides/kotlin[Kotlin]
+
