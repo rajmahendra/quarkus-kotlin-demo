@@ -12,6 +12,10 @@ release.properties
 .settings/
 bin/
 
+# Gradle
+.gradle/
+build/
+
 # IntelliJ
 .idea
 *.ipr
